@@ -9,7 +9,7 @@ public void onEnable(){
   
 }
 
-From there, you can use <ClassName>.save(), .get(), and .reload().
+From there, you can use (NameOfClass).save(), .get(), and .reload().
   
 For questions/support DM me on Discord or on Spigot.
 
